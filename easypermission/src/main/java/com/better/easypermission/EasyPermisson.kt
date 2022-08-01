@@ -8,7 +8,7 @@ import androidx.fragment.app.FragmentActivity
  */
 object EasyPermisson {
 
-    private const val TAG: String ="InvisibleFragment"
+    const val TAG: String ="InvisibleFragment"
 
     /**
      * TODO

@@ -1,3 +1,4 @@
+include ':easyactivity'
 include ':easypermission'
 include ':app'
 rootProject.name = "easypermissiondemo"
